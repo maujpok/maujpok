@@ -6,7 +6,7 @@ I'm a programmer passionate about new technologies, seeking at all times to inco
 
 🔭 I’m currently working on a team developing an SPA for online professional services offer. I'm also working on a personal projects, an ecommerce platform and a REST API.
 
-🌱 I’m currently learning about Python, and followed by it, I'm gonna take courses of .NET, GraphQL and Angular in the near time.
+🌱 I’m currently learning about Angular. Recently finished trainings on .NET, ASP.NET Core and SQL Server.
 
 👯 I’m looking for new challenges, take new knowledges to grew up my tech skills, be part of a great team and work on projects that helps world to be better.
 

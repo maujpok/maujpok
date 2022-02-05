@@ -1,8 +1,5 @@
-### Hi there! I'm Mauricio Portillo 👋
+### Hi there! I'm Mauricio Portillo, Full Stack Developer 👋
 
-I'm a full stack developer and write these lines from Córdoba, Argentina.
-
-I'm a programmer passionate about new technologies, seeking at all times to incorporate new knowledge to be at the forefront of the IT world.
 
 💡 I'm passionate about clean code, good practices, SOLID principles, developing quick reading and understanding code, which facilitate the scalability of the project.
 
